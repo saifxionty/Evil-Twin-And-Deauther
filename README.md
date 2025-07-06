@@ -25,7 +25,7 @@ Customizable SSID and attack parameters
 Compatible with NodeMCU, Wemos D1 Mini, and other ESP8266 boards
 
 📦 Requirements:
-ESP8266 (NodeMCU, Wemos D1 Mini, etc.)
+ESP8266 (NodeMCU, Wemos D1 Mini, etc.) !!
 Micro USB cable
 WiFi antenna (optional, but improves range)
 
